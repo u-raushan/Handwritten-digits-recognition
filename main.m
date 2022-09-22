@@ -13,5 +13,5 @@ lambda = 0.1;
 [all_theta] = lr_oneVsAll_train(X, y, num_labels, lambda);
 
 % To predict the digit and show probability
-pred = predictOneVsAll(all_theta, X);
+pred = lr_predict(all_theta, X);
 fprintf('\nTraining Set Accuracy: %f\n', mean(double(pred == y)) * 100);
