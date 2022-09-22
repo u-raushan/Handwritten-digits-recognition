@@ -1,6 +1,6 @@
 function [J, grad] = lrCostFunction(theta, X, y, lambda)
 %LRCOSTFUNCTION computes cost and gradient for logistic regression with 
-%regularization.
+%regularization for ONE class.
 
 % To initialize number of training examples
 m = length(y);
