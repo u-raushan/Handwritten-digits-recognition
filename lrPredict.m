@@ -1,4 +1,4 @@
-function p = lr_predict(all_theta, X)
+function p = lrPredict(all_theta, X)
 %PREDICT predicts the label for a trained one-vs-all classifier. The labels 
 %are in the range 1..K, where K = size(all_theta, 1).
 
