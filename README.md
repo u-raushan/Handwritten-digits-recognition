@@ -9,10 +9,10 @@ data.mat file contains 5,000 training examples. Random 100 data points are displ
 
 Cost function is as follows:
 
-<img width="341" alt="image" src="https://user-images.githubusercontent.com/69568898/191832632-dfadeab9-c81f-4590-b4dc-36644f0c6247.png">
+<img width="409.2" alt="image" src="https://user-images.githubusercontent.com/69568898/191832632-dfadeab9-c81f-4590-b4dc-36644f0c6247.png">
 
 To minimize the cost function, theta values are updated as follows:
 
-<img width="271" alt="image" src="https://user-images.githubusercontent.com/69568898/191833086-99813eb7-5dfb-4aa7-a3a3-02c268abc2ca.png">
+<img width="325.2" alt="image" src="https://user-images.githubusercontent.com/69568898/191833086-99813eb7-5dfb-4aa7-a3a3-02c268abc2ca.png">
 
 
