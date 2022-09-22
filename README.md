@@ -5,7 +5,7 @@ data.mat file contains 5,000 training examples. Random 100 data points are displ
 
 <img width="276" alt="image" src="https://user-images.githubusercontent.com/69568898/191809509-81e42c68-1555-4831-b4c8-09d8ee9e1a03.png">
 
-1. Classification using logistic regression with regularization
+1. Classification using logistic regression with regularization (oneVsAll)
 
 Cost function is as follows:
 
