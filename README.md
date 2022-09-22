@@ -1,5 +1,5 @@
 # Handwritten-digit-recognition
-The repository contains logistic regression and neural network models for handwritten digit recognition written in Matlab. This is part of the Machine Learning course by Coursera.
+This is part of the Machine Learning course by Coursera. The repository contains logistic regression and neural network models for handwritten digit recognition written in Matlab. Output of the models 10 classes representing digits from '0' to '9'.
 
 data.mat file contains 5,000 training examples. Random 100 data points are displayed below.
 
