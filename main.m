@@ -10,8 +10,8 @@ displayData(sel);
 % To train the model for all classes at once 
 num_labels = 10; % 10 labels, from 1 to 10 
 lambda = 0.1;
-[all_theta] = lr_oneVsAll_train(X, y, num_labels, lambda);
+[all_theta] = lrTrain(X, y, num_labels, lambda);
 
 % To predict the digit and show probability
-pred = lr_predict(all_theta, X);
+pred = lrPredict(all_theta, X);
 fprintf('\nTraining Set Accuracy: %f\n', mean(double(pred == y)) * 100);
