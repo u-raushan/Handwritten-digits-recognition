@@ -21,3 +21,5 @@ To minimize the cost function, theta values are updated as follows:
 NN consists of three layers: input, hidden, and output layers. 
 
 The picture size of a handwritten digit is 20 by 20 pixels so the input layer size is 400 units. The hidden layer size is 25 units (can be any value). The output layer size is 10 units (10 digits).
+
+Theta 1 and theta 2 parameters are part of the course materials.
