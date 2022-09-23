@@ -16,10 +16,10 @@ To minimize the cost function, theta values are updated as follows:
 <img width="325.2" alt="image" src="https://user-images.githubusercontent.com/69568898/191833086-99813eb7-5dfb-4aa7-a3a3-02c268abc2ca.png">
 
 
-2. Classification using a neural network (NN)
+2. Classification using a pretrained neural network (NN)
 
 NN consists of three layers: input, hidden, and output layers. 
 
 The picture size of a handwritten digit is 20 by 20 pixels so the input layer size is 400 units. The hidden layer size is 25 units (can be any value). The output layer size is 10 units (10 digits).
 
-Theta 1 and theta 2 parameters are part of the course materials.
+The model is pretrained. Theta 1 and theta 2 parameters are part of the course materials.
